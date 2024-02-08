@@ -1,15 +1,15 @@
-/*! DataTables 1.10.10
- * ©2008-2015 SpryMedia Ltd - datatables.net/license
+/*! DataTables 1.13.7
+ * ©2018 SpryMedia Ltd - datatables.net/license
  */
 
 /**
  * @summary     DataTables
  * @description Paginate, search and order HTML tables
- * @version     1.10.10
+ * @version     1.13.7
  * @file        jquery.dataTables.js
  * @author      SpryMedia Ltd (www.sprymedia.co.uk)
  * @contact     www.sprymedia.co.uk/contact
- * @copyright   Copyright 2008-2015 SpryMedia Ltd.
+ * @copyright   Copyright 2018 SpryMedia Ltd - datatables.net/license
  *
  * This source file is free software, available under the following license:
  *   MIT license - http://datatables.net/license
